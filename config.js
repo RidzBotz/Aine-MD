@@ -56,8 +56,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-packname = sticker_name
-author = sticker_author
+packname = RidzzBotz
+author = Ridzz 0fc
 wm = '© Aine'
 
 Intervalmsg = 1800 //detik
